@@ -1,4 +1,4 @@
-# Quiche-moussaka
+# Moussatarte
 
 ## Informations
 * Source : Jérémie
