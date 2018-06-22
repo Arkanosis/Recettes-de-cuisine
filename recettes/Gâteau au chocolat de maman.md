@@ -2,7 +2,7 @@
 
 ## Informations
 * Source : maman
-* Quantité : 8 personnes
+* Quantité : 8 personnes (ou 2, s'il d'agit d'Anne-Sophie et Jérémie)
 * Durée de préparation :
 * Compatilité avec les régimes alimentaires : sans sel, halal, kasher, végétarien
 
@@ -18,4 +18,4 @@
 Casserole : chocolat + lait (très doux), lorsque lisse, ajouter sucre, farine et beurre en petits morceaux. Ajouter les jaunes un par un et remuer rapidement pour empêcher de cuire. Enlever la casserole du feu. Battre les blancs en neige ferme et incorporer la neige dans le chocolat, délicatement avec la cuillère. Verser dans le moule. Mettre 20 minutes min dans le four préchauffé à 180 ℃. Laisser gonfler, piquer au couteau.
 
 ## Notes
-Des blancs non montés en neige et une cuisson moindre transforment le gâteau en fondant, qui plaît encore plus à Anne-Sophie que la recette originale.
+Des blancs non montés en neige, moins de sucre (100 g) et une cuisson moindre (10 mn) transforment le gâteau en fondant, qui plaît encore plus à Anne-Sophie que la recette originale.
