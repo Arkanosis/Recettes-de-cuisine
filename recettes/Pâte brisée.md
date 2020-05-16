@@ -4,7 +4,7 @@
 * Source : maman
 * Quantité : 1 pâte (pour une quiche, par exemple)
 * Durée de préparation :
-* Compatilité avec les régimes alimentaires : sans sel, halal, kasher, végétarien
+* Compatilité avec les régimes alimentaires : sans sel (optionnel), halal, kasher, végétarien
 
 ## Ingrédients
 * 125 g de beurre

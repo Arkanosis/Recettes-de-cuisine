@@ -4,7 +4,7 @@
 * Source : Jérémie
 * Quantité : 1 verrine
 * Durée de préparation : 2 minutes
-* Compatilité avec les régimes alimentaires : sans sel, sans gluten, halal, végétarien, végétalien
+* Compatilité avec les régimes alimentaires : sans sel, sans gluten, halal, kasher, végétarien, végétalien
 
 ## Ingrédients
 * 50 g de fromage blanc

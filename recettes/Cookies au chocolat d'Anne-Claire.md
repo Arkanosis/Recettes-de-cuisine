@@ -4,7 +4,7 @@
 * Source : Anne-Claire
 * Quantité : 8 personnes
 * Durée de préparation :
-* Compatilité avec les régimes alimentaires : sans sel, sans gluten, halal, kasher, végétarien
+* Compatilité avec les régimes alimentaires : sans sel (optionnel), halal, kasher, végétarien
 
 ## Ingrédients
 * 430 g de farine
