@@ -4,7 +4,7 @@
 * Source : Anne-Sophie
 * Quantité : 6 personnes (ou 2, s'il d'agit d'Anne-Sophie et Jérémie)
 * Durée de préparation : 
-* Compatilité avec les régimes alimentaires : sans sel, halal, kasher, végétarien
+* Compatibilité avec les régimes alimentaires : sans sel, halal, kasher, végétarien
 
 ## Ingrédients
 * 75 g de beurre
